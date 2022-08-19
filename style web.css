@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(kupono-kuwamura-LzgK6IMoSZM-unsplash.jpg);
+}
+.font{
+    text-align: center;
+    font-style: helvetica;
+    margin-top: 320px;
+}
